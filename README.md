@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**unlibra/unlibra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 tkitner-unblur
+
+A lightweight Tkinter utility to improve UI visibility by reducing blur effects.
+
+* Python / Tkinter
+* Desktop GUI
+* Simple and reusable design
+
+👉 [https://github.com/unlibra/tkitner-unblur](https://github.com/unlibra/tkitner-unblur)
+
+---
+
+### 🔹 i18n-tiny
+
+A minimal internationalization (i18n) helper library for small Python projects.
+
+* Python
+* Localization / i18n
+* No heavy dependencies
+
+👉 [https://github.com/unlibra/i18n-tiny](https://github.com/unlibra/i18n-tiny)
+
+---
+
+⭐ If you find my projects useful, feel free to star or contribute!
