@@ -1,7 +1,5 @@
 ## Hi there 👋
 
----
-
 ## 🚀 Featured Projects
 
 ### 🔹 tkitner-unblur
@@ -13,8 +11,6 @@ A lightweight Tkinter utility to improve UI visibility by reducing blur effects.
 * Simple and reusable design
 
 👉 [https://github.com/unlibra/tkitner-unblur](https://github.com/unlibra/tkitner-unblur)
-
----
 
 ### 🔹 i18n-tiny
 
