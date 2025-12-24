@@ -4,21 +4,13 @@
 
 ### 🔹 tkinter-unblur
 
-A lightweight Tkinter utility to improve UI visibility by reducing blur effects.
-
-* Python / Tkinter
-* Desktop GUI
-* Simple and reusable design
+A dead simple library that fixes blurry Tkinter applications on Windows.
 
 👉 [https://github.com/unlibra/tkinter-unblur](https://github.com/unlibra/tkinter-unblur)
 
 ### 🔹 i18n-tiny
 
-A minimal internationalization (i18n) helper library for small Python projects.
-
-* Python
-* Localization / i18n
-* No heavy dependencies
+The simple i18n library for Next.js and Astro. Type-safe, zero-dependency, minimal setup.
 
 👉 [https://github.com/unlibra/i18n-tiny](https://github.com/unlibra/i18n-tiny)
 
